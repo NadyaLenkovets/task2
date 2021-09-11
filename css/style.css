@@ -300,7 +300,7 @@ h6 {
     z-index: -1;
     padding: 20px 26px;
     background-color: rgba(53, 211, 255, 0.8);
-    transition: 0.2s linear;
+    transition: 0.3s ease;
   }
 }
 
